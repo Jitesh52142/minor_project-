@@ -3,4 +3,6 @@ scikit-learn
 pandas
 numpy
 pickle-mixin
-gunicorn
+python-3.8.10
+
+
